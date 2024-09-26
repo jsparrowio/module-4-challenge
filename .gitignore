@@ -16,3 +16,10 @@ _site/
 # counterproductive to check this file into the repository.
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
+
+
+# Mac Files
+.DS_Store
+assets/.DS_Store
+assets/css/.DS_Store
+assets/js/.DS_Store
