@@ -5,6 +5,9 @@
 /*
   Tags
 */
+a {
+  text-decoration: none;
+}
 aside {
     background: linear-gradient(
       var(--light-accent), 
