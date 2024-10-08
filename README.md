@@ -3,7 +3,7 @@ UofM/edX Coding Bootcamp - Challenge 4
 
 ## Description
 
-This was the fourth challenge we will complete for the UofM/edX Full Stack Flex Coding Bootcamp. It was completed to practice our skills with more itermediate JavaScript concepts such as form event listeners, click events, event propagation, preventing default, and storing to localStorage. It also helped us practice our skills with functions, variables, and loops as we had to write all of them from scratch (only provided info was the name of the functions).  The actual produced product was a personal blog that takes input from a form and stores the data in local storage.
+This was the fourth challenge we will complete for the UofM/edX Full Stack Flex Coding Bootcamp. It was completed to practice our skills with more intermediate JavaScript concepts such as form event listeners, click events, event propagation, preventing default, and storing to localStorage. It also helped us practice our skills with functions, variables, and loops as we had to write all of them from scratch (only provided info was the name of the functions).  The actual produced product was a personal blog that takes input from a form and stores the data in local storage.
 
 ## Usage
 
